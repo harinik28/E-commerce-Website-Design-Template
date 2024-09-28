@@ -1,16 +1,8 @@
-# E-commerce-Website-Template
+# React + Vite
 
-E-commerce website template using React, featuring list rendering and Bootstrap for a responsive and modern design. This project was a fantastic opportunity to deepen my understanding of front-end development.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Technologies Used: React, Bootstrap
+Currently, two official plugins are available:
 
-Key Features:
-
-Dynamic List Rendering: Display products dynamically for a seamless shopping experience.
-
-Responsive Design: Ensures the site looks great on all devices, thanks to Bootstrap.
-
-
-
-https://github.com/user-attachments/assets/d9f65207-c432-42dc-b6a7-af728487880c
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

@@ -1,4 +1,4 @@
-# E-Commerce Website Template
+# E-Commerce Store
 
 ## Project Overview
 
@@ -8,6 +8,9 @@ This E-commerce website template is built with React and showcases a modern, res
 
 - **Horizontally Scrollable Product Details**: 
   - Achieved using React's list rendering concept, making it easy to showcase multiple products without cluttering the interface.
+    
+- **Adding Products To Cart**: 
+  - Achieved using Redux's state management concept, making it easy to add and delete multiple products without cluttering the interface.
 
 - **Responsive Design**: 
   - Styled with Bootstrap to ensure the website looks great on all devices, from desktops to mobile phones.
@@ -18,6 +21,7 @@ This E-commerce website template is built with React and showcases a modern, res
 ### Technologies Used
 
 - React
+- Redux
 - Bootstrap
 - CSS
 

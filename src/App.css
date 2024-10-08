@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  height: 100px;
+}
+.search{
+  flex-basis: 400px;
+}
+.search input{
+  outline:0;
+}
+.footer{
+  height: 105px;
+  background-color: black;
+  color: white;
+}
+.footer p{
+  margin-bottom: 0;
+}
+.scrollbar::-webkit-scrollbar{
+  height:10px
+}
+.scrollbar::-webkit-scrollbar-track,
+.scrollbar::-webkit-scrollbar-thumb{
+  border-radius: 92px;
+}
+.scrollbar::-webkit-scrollbar-thumb{
+  background-color: #6c757d;
+}

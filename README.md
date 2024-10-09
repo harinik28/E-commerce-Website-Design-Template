@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This E-commerce website template is built with React and showcases a modern, responsive design for online shopping. The template includes horizontally scrollable product details, allowing users to browse through products seamlessly.
+This E-commerce website template is built with React and showcases a modern, responsive design for online shopping. The template includes horizontally scrollable product details, allowing users to browse through products seamlessly and add to cart functionality using Redux State Management.
 
 ### Key Features
 
@@ -45,5 +45,6 @@ This E-commerce website template is built with React and showcases a modern, res
 
 ## Demo
 
-https://github.com/user-attachments/assets/32c489fd-6137-4c67-bbd5-0d448aea135d
+https://github.com/user-attachments/assets/b2425555-609f-4618-ab61-c98c2f3105d4
+
 
